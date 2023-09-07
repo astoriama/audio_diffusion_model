@@ -1,3 +1,3 @@
-# CSE190_filnal_project
+# CSE190_final_project
 
 Dataset reference: https://github.com/soerenab/AudioMNIST 
